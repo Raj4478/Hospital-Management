@@ -1,7 +1,6 @@
-import { useState } from 'react'
-import SignUp from './Pages/Signup'
-import Login from './Pages/Login'
-
+import React from "react";
+import { useState } from "react";
+import Login from "./Pages/Login.jsx";
 
 
 function App() {
@@ -9,10 +8,9 @@ function App() {
 
   return (
     <>
-      <Login/>
-   
+      <Login />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
