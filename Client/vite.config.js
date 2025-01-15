@@ -7,7 +7,7 @@ export default defineConfig({
 
   server:{
     proxy:{
-      '/api':'https://hospital-management-ilqe.vercel.app'
+      '/api':'https://hospital-management-topaz.vercel.app'
 
       }
       
