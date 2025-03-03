@@ -42,7 +42,7 @@ The **Hospital Management System** is a comprehensive web application designed t
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/hospital-management-system.git
+git clone https://github.com/Raj4478/hospital-management-system.git
 ```
 
 ### Navigate to the Project Directory
