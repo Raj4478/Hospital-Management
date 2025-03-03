@@ -71,15 +71,9 @@ npm install
 
 ### Set Up the Database
 
-- Ensure PostgreSQL is installed and running.
+- Ensure MongoDB account is created and running.
 - Create a new database named `hospital_management`.
 - Configure the database connection in the backend configuration file.
-
-### Run Database Migrations
-
-```bash
-npx prisma migrate deploy
-```
 
 ### Start the Backend Server
 
@@ -101,15 +95,7 @@ npm start
 
 ### Log In Credentials (for testing)
 
-- **Hospital Food Manager**:
-  - Email: hospital_manager@xyz.com
-  - Password: password123
-- **Inner Pantry Staff**:
-  - Email: pantry_staff@xyz.com
-  - Password: password123
-- **Delivery Personnel**:
-  - Email: delivery_personnel@xyz.com
-  - Password: password123
+
 
 ### Navigate the Dashboard
 
@@ -117,7 +103,7 @@ npm start
 
 ## 🤝 Contributors
 
-- [Your Name](https://github.com/yourusername) - Full-Stack Developer
+- [Rajeshwar](https://github.com/Raj4478) - Full-Stack Developer
 
 ## 📄 License
 
